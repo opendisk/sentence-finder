@@ -4,7 +4,7 @@ namespace Opendisk\SentenceFinder;
 
 use Symfony\Component\DomCrawler\Crawler;
 
-class SentenceFinder
+class GetSentence
 {
     public $base_url = "";
 
